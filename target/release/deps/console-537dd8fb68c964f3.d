@@ -1,0 +1,13 @@
+/home/dat/rust/rustlings/target/release/deps/console-537dd8fb68c964f3.rmeta: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/common_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/kb.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/unix_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/utils.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/ansi.rs
+
+/home/dat/rust/rustlings/target/release/deps/libconsole-537dd8fb68c964f3.rlib: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/common_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/kb.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/unix_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/utils.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/ansi.rs
+
+/home/dat/rust/rustlings/target/release/deps/console-537dd8fb68c964f3.d: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/common_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/kb.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/unix_term.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/utils.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/ansi.rs
+
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/lib.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/common_term.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/kb.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/term.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/unix_term.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/utils.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.7/src/ansi.rs:

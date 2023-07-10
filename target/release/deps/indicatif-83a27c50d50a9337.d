@@ -1,0 +1,13 @@
+/home/dat/rust/rustlings/target/release/deps/indicatif-83a27c50d50a9337.rmeta: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/home/dat/rust/rustlings/target/release/deps/libindicatif-83a27c50d50a9337.rlib: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/home/dat/rust/rustlings/target/release/deps/indicatif-83a27c50d50a9337.d: /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs:
+/home/dat/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs:
